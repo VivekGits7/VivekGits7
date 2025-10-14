@@ -19,13 +19,8 @@ Strong understanding of **OOP principles** with a focus on writing **clean, modu
 
 ## 🛠️ Skills
 
-### 💻 Programming Languages
-- Java, JavaScript, C, C++
-
-### ⚙️ Core Concepts
-- Data Structures & Algorithms  
-- Object-Oriented Programming (OOP)  
-- Problem Solving  
+**💻 Programming Languages:** Java, JavaScript, C, C++
+**⚙️ Core Concepts:** Data Structures & Algorithms, Object-Oriented Programming (OOP), Problem Solving  
 
 ### 🌱 Java Frameworks & Libraries
 - Spring, Spring Boot, Lombok, Jackson, SonarQube  
