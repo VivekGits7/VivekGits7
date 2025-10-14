@@ -3,9 +3,10 @@
 I’m passionate about building **scalable backend systems** and **AI-powered applications** using **Java, Spring Boot, and Microservices Architecture**.  
 I love working with **REST APIs**, **cloud platforms**, and **AI model integrations** to create innovative and efficient software solutions. 🚀  
 
-📍 Location: Jabalpur, Madhya Pradesh, India  
-📧 Email: [vivekvish0134@gmail.com](mailto:vivekvish0134@gmail.com)  
-🔗 [LinkedIn](https://linkedin.com/in/your-link) | [GitHub](https://github.com/your-github)
+##📍 Location: Jabalpur, Madhya Pradesh, India  
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Vivek_is._here) [![!LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vivek-vishwakarma-) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vivekvish0134@gmail.com) 
+
 
 ---
 
@@ -19,8 +20,8 @@ Strong understanding of **OOP principles** with a focus on writing **clean, modu
 
 ## 🛠️ Skills
 
-**💻 Programming Languages:** Java, JavaScript, C, C++
-**⚙️ Core Concepts:** Data Structures & Algorithms, Object-Oriented Programming (OOP), Problem Solving  
+**💻 Programming Languages:** Java, JavaScript, C, C++.
+**⚙️ Core Concepts:** Data Structures & Algorithms, Object-Oriented Programming (OOP), Problem Solving.  
 
 ### 🌱 Java Frameworks & Libraries
 - Spring, Spring Boot, Lombok, Jackson, SonarQube  
