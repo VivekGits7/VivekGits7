@@ -1,123 +1,161 @@
-# 💫 About Me:
-👋 Hi there! I'm **Vivek Vishwakarma**, an **Aspiring Java Developer** from **Jabalpur, Madhya Pradesh, India**.  
-I’m passionate about building **scalable backend systems** and **AI-powered applications** using **Java, Spring Boot, and Microservices Architecture**.  
-I love working with **REST APIs**, **cloud platforms**, and **AI model integrations** to create innovative and efficient software solutions. 🚀  
+```text
 
-**📍 Location:** Jabalpur, Madhya Pradesh, India  
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Vivek_is._here) [![!LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vivek-vishwakarma-) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vivekvish0134@gmail.com) 
+                 =-================
+            =-------======+++=======-
+           ---=----------============-----=
+         --===-----=---==+=====+++====---=--
+        ---==--===-----=--=--==+++==--====---=                                                vivek@github
+       ---==--==------=--==-----==------------                                                ----------------------------------------
+       --=====-------------=++++====---------=                                                OS: ......... macOS, Ubuntu Server
+      ----=---------===++*#%@@@@@%#+==--------                                                Host: ....... Kuberya AI Solutions
+       -----------=+**##%%@@@@@@@@@@%###*===-=                                                Role: ....... Backend Tech Lead
+        ------===+##%%%@@@@@@@@@@@@@@@@@@%+==                                                 Kernel: ..... B.Tech ECE, 2025
+          --++========+++*#%*++++====++**@%=                                                  Shell: ...... zsh + Claude Code
+          ==**+==-=--------=+++=---=+*+#%@%*                                                  IDE: ........ VS Code, DBeaver
+        +=#*+##*++*==+*===*%@@@%*+=+%@%@@@@@
+         ++=+#%%%%#****#**#@@@@@@@@@@@@@@@%@+                                                 Languages.Programming: Python, Java, Go,
+         =+==*#%%%@%%%#**#%@@@@@@@@@@@@@@@@@                                                                                    C, C++
+          +*+++*##%##*==***#@@%@@@@@@@@@@%#*                                                  Languages.Computer: .. SQL, TypeScript
+              ++++****++=--==++#@@@@%%@%@                                                     Languages.Real: ...... English, Hindi,
+               *++++===---=++++++==*%%@@#                                                                                     Hinglish
+               +*+++===+++*##%%@%%*#%%%#
+                **++++**+++++*%@@@@%#%#                                                       Hobbies.Software: .... Building AI Agents
+                ##*+++++**##%@@@%%%#%@%                                                       Hobbies.Hardware: .... Shipping to prod
+               =##**++=--===-====+%@@@@
+              -=##****++=---==+*%@@@@@@*=                                                     Contact:
+          ====-=###*+++++===+#%@@@@@@@@++++=                                                  Email: ....... vivekvish0134@gmail.com
+    ===--======-=##****++++*#%@@@@@@@@%=++*+**++++                                            GitHub: ...... github.com/VivekGits7
+=======-========-=******+++*#%%@@@@@@@==*++***+++****+                                        LinkedIn: .... in/vivek-vishwakarma-
+================-=*#*+*##***##%@@@@@@#-=*+******+++++*
+===============+===*##%@@@@%%%@@@@@%#=-++******+++++++
++++++======+++=++=====++*#######*++====+***+*++++*++++
+++++==++++++++++++=======-=-======+++=+****+*++*+**+++
+++++-=+++++++=++++++==+++++==++++++===+****++++++*++++
+```
 
-
----
-
-## 🧠 Summary
-Aspiring **Java Developer** with hands-on experience in building **scalable backend applications** and **AI-powered systems** using **Java, Spring Boot, and Microservices**.  
-Proficient in **RESTful API development**, **payment gateway integration**, and **database management** with **MongoDB** and **MySQL**.  
-Skilled in **AWS (EC2, RDS, Secrets Manager)**, **error handling**, and integrating **AI models** like **Google Gemini, Spring AI, OpenAI LLM**, and **Ollama**.  
-Strong understanding of **OOP principles** with a focus on writing **clean, modular, and maintainable code**.  
-
----
-
-## 🛠️ Skills
-
-**💻 Programming Languages:** Java, JavaScript, C, C++.
-
-**⚙️ Core Concepts:** Data Structures & Algorithms, Object-Oriented Programming (OOP), Problem Solving.  
-
-**🌱 Java Frameworks & Libraries:** Spring, Spring Boot, Lombok, Jackson, SonarQube  
-
-**🧩 Back-End Development:** RESTful API Development, Microservices Architecture  
-
-**🎨 Front-End Frameworks:** React.js, Tailwind CSS  
-
-**🤖 AI & LLMs:** Spring AI, OpenAI LLM, Llama LLM, AI-assisted coding tools: Vibe Coding, GitHub Copilot, Cursor AI  
-
-**🗄️ Databases:** MongoDB, MySQL (Data Modeling & Integration)  
-
-**☁️ Cloud Platforms:** AWS (EC2, RDS, Secrets Manager, Security Groups, IAM Roles)  
-
-**🧰 Tools & Build Systems:** Maven, Postman, Mobaxterm, GSON, JSON, CURL  
-
-**🌐 Web Technologies:** HTML5, CSS3, YAML  
-
-**🧾 Version Control:** Git, GitHub, Bitbucket, Sourcetree  
-
-**📋 Project Management:** Jira (Agile Workflows, Task Management)  
-
-**🧠 IDEs:** IntelliJ IDEA, Visual Studio Code  
-
-**💬 Soft Skills:** Team Leadership, Project Management, Communication  
+**Backend Tech Lead · Full Stack Developer · AI & LLM Engineering**
 
 ---
 
-## 🚀 Projects
+## Skills
 
-### 🧾 **Stripe Payment Integration**
-**Java Developer Trainee | HulkHire Tech, Hyderabad (Aug 4, 2025 – Sep 26, 2025)**  
-Built a **secure, scalable payment integration system** using **Spring Boot Microservices** and **AWS**.  
-Implemented payment processing, security (Stripe Basic Auth & HmacSHA256), custom error handling, and asynchronous messaging via **ActiveMQ**.  
-Explored **Spring AI with OpenAI LLM** for intelligent error handling.  
-🧩 *Tech Stack:* Java, Spring Boot, Microservices, MySQL, AWS (EC2, RDS, Secrets Manager), ActiveMQ, OpenAI LLM  
-🔗 [Project Link](https://github.com/your-github/stripe-payment-integration)
+> Skills aren't listed on this profile. They're running.
 
----
+```text
+vivek@github:~$ skillmon --tree --sort=power
 
-### 🤖 **AI Chatbot Model – Google Gemini 2.0 Flash**
-Developed an **AI-powered chatbot** using **Spring Boot** and **Google Gemini 2.0 Flash API**.  
-Enabled intelligent, context-aware conversations with robust error handling and modular architecture.  
-Managed version control and deployment using **Maven** and **GitHub**.  
-🧩 *Tech Stack:* Java, Spring Boot, Google Gemini API, Maven, GitHub  
-🔗 [Project Link](https://github.com/your-github/ai-chatbot-gemini)
-
----
-
-### 🎓 **Student Management System**
-Built a **Spring Boot microservices application** to manage student records securely.  
-Implemented **Spring Security** for **role-based access control**, used **MongoDB Atlas** for cloud-based data management, and applied **Java JDBC logic** for efficient operations.  
-Integrated **Spring AI (Ollama 3.2:1b)** for smart automation and improved functionality.  
-🧩 *Tech Stack:* Spring Boot, Spring Security, MongoDB Atlas, Ollama 3.2:1b, Maven, GitHub  
-🔗 [Project Link](https://github.com/your-github/student-management-system)
-
----
-
-## 💼 Experience
-**Java Developer Trainee | HulkHire Tech, Hyderabad (Aug 2025 – Present)**  
-- Worked on scalable backend applications using **Java**, **Spring Boot**, and **Microservices**.  
-- Collaborated on **REST API design** and implemented best practices in **Agile workflows**.  
-- Enhanced debugging, testing, and software delivery quality.  
-
----
-
-## 🧾 Certifications
-- 🏅 **Java Developer Trainee Program** – HulkHire Tech (Aug 2025)  
-- ☁️ **Oracle Cloud Infrastructure Certified Developer Professional** – Oracle (Sep 2025)  
-- 💻 **Oracle Certified Associate (OCA) – Java SE** – Oracle via CertifyCore Inc (Jul 2025)  
-- 🧩 **C and C++ Programming** – Cisco Networking Academy (May – Aug 2023)  
-
----
-
-## 🎓 Education
-**Bachelor of Technology (B.Tech) – Electronics & Communication Engineering**  
-Baderia Global Institute of Engineering and Management, Jabalpur  
-📅 Aug 2021 – Jun 2025 | GPA: 7.25/10  
-
-**Higher Secondary (12th – Science Stream)**  
-Sanatan Dharma Public Higher Secondary School, Jabalpur | 📅 Mar 2021 | 74%  
-
-**High School (10th)**  
-Sanatan Dharma Public Higher Secondary School, Jabalpur | 📅 Mar 2019 | 73.8%  
+  PID  PROCESS                   POWER            STATUS
+  ──────────────────────────────────────────────────────────────────────
+  001  ai-llm-engineering        █████████▓ 96%   ● always-on
+       ├─ OpenAI · Gemini · Anthropic APIs
+       ├─ LangChain · LangGraph · RAG · Agents · Multi-Agent Systems
+       └─ Tools · Skills · Memory · MCP · Agents2Agents · Plugins · CLIs
+  002  python-stack              █████████▓ 95%   ● running
+       ├─ FastAPI · Uvicorn · Pydantic v2 · asyncpg · aioboto3 · httpx
+       └─ OpenAI & google-genai SDKs · Pytest · ReportLab · Playwright
+  003  core-languages            █████████░ 94%   ● running
+       └─ Python · Java · Go · C · C++
+  004  backend-architecture      █████████░ 93%   ● running
+       ├─ RESTful APIs · WebSockets · Webhooks · Background jobs/Schedulers
+       └─ designing Monolithic & Microservices architecture
+  005  generative-ai             █████████░ 92%   ● streaming
+       ├─ Text-to-text · generation (Image & Video) · real-time voice
+       └─ speech (text-to-speech & speech-to-text) · Pipeline (STT → LLM → TTS)
+  006  soft-skills-leadership    █████████░ 92%   ● always-on
+       └─ team leadership · project management · strong verbal communication
+  007  databases-and-search      █████████░ 90%   ● connected
+       ├─ PostgreSQL · MySQL · MongoDB
+       └─ Elasticsearch (vector + full-text search) · Redis (caching)
+  008  cs-fundamentals           █████████░ 90%   ● in-memory
+       ├─ System Design · Data Structures & Algorithms
+       └─ Object-Oriented Programming · Problem Solving
+  009  version-control           █████████░ 90%   ● daemon
+       └─ Git · GitHub · GitLab · Bitbucket · Sourcetree
+  010  security-and-auth         ████████▓░ 88%   ● enforcing
+       ├─ JWT · OAuth2 · bcrypt/passlib · role-based access control (RBAC)
+       └─ HMAC webhook signature verification · rate limiting · secrets management
+  011  ide-tooling               ████████▓░ 88%   ● attached
+       └─ Visual Studio Code · DBeaver
+  012  devops-and-cloud          ████████▓░ 85%   ● deployed
+       ├─ AWS (EC2 · RDS · S3 · Secrets Manager · CloudWatch)
+       └─ Docker & docker-compose · Kubernetes · CI/CD pipelines · reverse proxy (Caddy) · Vercel
+  013  project-management        ████████▓░ 85%   ● scheduled
+       └─ Jira · ClickUp · Agile workflows · task management
+  014  java-stack                ████████░░ 82%   ● stable
+       └─ Spring · Spring Boot · Lombok · Jackson · SonarQube · JUnit · Mockito
+  015  observability             ████████░░ 80%   ● watching
+       └─ Grafana · Loki · Prometheus · Jaeger · Uptime Kuma
+  016  frontend-engineering      ███████▓░░ 75%   ● rendering
+       └─ React.js · Next.js · Tailwind CSS · TypeScript
+  ──────────────────────────────────────────────────────────────────────
+  16 skill groups · 0 zombie processes · load avg: shipping daily
+  uptime: building since 2021 · next spawn: whatever the goal needs
+```
 
 ---
 
-## 🌍 Languages
-- 🇮🇳 Hindi (Native)  
-- 🇬🇧 English (Proficient)  
+## Experience
+
+> Career, version controlled. Only fast-forward merges.
+
+```text
+vivek@github:~$ git log career --stat
+
+commit 2026a3f (HEAD -> career, tag: v3.0-backend-tech-lead)
+Author: Vivek Vishwakarma <vivekvish0134@gmail.com>
+Date:   Mar 2026 – Present
+Where:  Kuberya AI Solutions, Jabalpur
+
+    Leading the backend team from the front, keeping the team focused,
+    motivated, and shipping to the goal across multiple production AI
+    products. Owning architecture decisions, code reviews, and delivery
+    timelines for agentic AI systems delivering up to 99% accuracy in
+    production. Mentoring developers on async FastAPI, LLM integration
+    patterns, and production-grade engineering practices.
+
+ team/leadership        | 10 ++++++++++
+ architecture-decisions |  9 +++++++++
+ code-reviews/mentoring |  9 +++++++++
+
+commit 2025b8c (tag: v2.0-backend-developer)
+Author: Vivek Vishwakarma <vivekvish0134@gmail.com>
+Date:   Sep 2025 – Mar 2026
+Where:  Kuberya AI Solutions, Jabalpur
+
+    Designed and shipped production AI backends across five products: AI
+    Evaluator, piRx42, DineVoice AI, MedTech, and Kalaax. Built agentic
+    AI systems with multiple specialized agents, RAG pipelines, real-
+    time voice, and payment integrations on async FastAPI, PostgreSQL,
+    and AWS. Collaborated on developing and maintaining scalable back-
+    end solutions using Java, Spring Boot, and microservices through
+    real-world projects.
+
+ products-shipped       |  5 +++++
+ agentic-ai-systems     | 10 ++++++++++
+ rag/realtime-voice     |  8 ++++++++
+
+commit 2025a1e (tag: v1.0-java-trainee)
+Author: Vivek Vishwakarma <vivekvish0134@gmail.com>
+Date:   Aug 2025 – Sep 2025
+Where:  HulkHire Tech, Hyderabad
+
+    Gained hands-on experience with Java, Spring Boot, and Microservices
+    through real-world projects. Contributed to a secure and scalable
+    Stripe Payment Integration System in a microservices architecture on
+    AWS.
+
+ java/spring-boot       |  8 ++++++++
+ stripe-payments        |  7 +++++++
+ aws-fundamentals       |  6 ++++++
+
+vivek@github:~$ git status
+On branch career
+Your branch is ahead of 'origin/comfort-zone' by 3 commits.
+```
 
 ---
 
-## ⚡ Fun Fact
-I enjoy exploring AI integrations with backend systems — and turning complex logic into clean, scalable solutions! 💡  
+## GitHub Stats
 
----
-
-⭐ **“Clean code is not just written — it’s designed.”**
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=VivekGits7&show_icons=true&theme=tokyonight&hide_border=true)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VivekGits7&layout=compact&theme=tokyonight&hide_border=true)
